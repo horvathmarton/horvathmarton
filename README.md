@@ -6,13 +6,14 @@ I really appreciate that you took the time to visit my profile.
 
 I'm a software engineer and engineering manager passionate about crafting innovative solutions and leading cross-functional teams to deliver high-impact projects. With a strong track record in developing energy and financial trading systems, I'm dedicated to making a meaningful impact in the world of software engineering.
 
-## Tech Stack
+## Some of My Favorite Technologies
+
+During my career, I worked with many different technologies here is the list that I'm currently the most productive with and use in my pet projects:
 
 - Node.js
 - TypeScript
-- Python
 - NestJS
-- React
+- SvelteKit
 
 ## Projects
 
